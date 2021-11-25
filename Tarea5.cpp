@@ -1,6 +1,6 @@
 //Tarea 5 Avendaño Garibay Ruben Omar 614
 #include <stdio.h>
-//Actualizacion para git-Hub para demostrar el paso 6 de la seccion 2 del examen 
+//Actualizacion para git-Hub para demostrar el paso 6 de la seccion 2 del examen s
 
 int main()
 {
